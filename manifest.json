@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "ANS Downloader",
+  "version": "1.0",
+
+  "description": "Download your exams and answers as PDF from ANS.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.ans.app/*"],
+      "js": ["html2pdf.bundle.js", "downloader.js"]
+    }
+  ]
+}
