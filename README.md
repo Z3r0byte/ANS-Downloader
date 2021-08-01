@@ -1,5 +1,5 @@
 # ANS Downloader
-Firefox extension which allows you to download your answers of tests made or corrected in ANS Deflt.
+Firefox extension which allows you to download your answers of tests made or corrected in ANS Delft.
 
 Adds a "Download" button to the ANS Delft reviewing environment. Works flawlessly for on-paper (scanned) exams. Downloading online exams takes a few seconds and sometimes has some rendering issues.
 
